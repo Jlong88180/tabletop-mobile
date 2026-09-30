@@ -1,0 +1,3 @@
+{
+  "expo":{"name":"Tabletop","slug":"tabletop","version":"0.1.0","orientation":"portrait","userInterfaceStyle":"dark","splash":{"resizeMode":"contain","backgroundColor":"#0d0d1b"},"ios":{"supportsTablet":true,"bundleIdentifier":"com.tabletop.social"},"android":{"package":"com.tabletop.social"}}
+}
